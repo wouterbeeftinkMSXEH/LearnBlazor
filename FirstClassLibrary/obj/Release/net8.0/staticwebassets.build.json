@@ -1,0 +1,434 @@
+{
+  "Version": 1,
+  "Hash": "m7ExRh+CLHEuQ2n8HFDp8ppgXvs8Ovw06pEFwcI0XJI=",
+  "Source": "My.FirstClassLibrary",
+  "BasePath": "_content/My.FirstClassLibrary",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "My.FirstClassLibrary\\wwwroot",
+      "Source": "My.FirstClassLibrary",
+      "ContentRoot": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\wwwroot\\",
+      "BasePath": "_content/My.FirstClassLibrary",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\obj\\Release\\net8.0\\scopedcss\\bundle\\My.FirstClassLibrary.styles.css",
+      "SourceId": "My.FirstClassLibrary",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\obj\\Release\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/My.FirstClassLibrary",
+      "RelativePath": "My.FirstClassLibrary#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "33cvackptp",
+      "Integrity": "ETcn5MZ5JVqJMBPI0j6u5AH040PJT5Xxc712OwsLmPM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\obj\\Release\\net8.0\\scopedcss\\bundle\\My.FirstClassLibrary.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\My.FirstClassLibrary.bundle.scp.css",
+      "SourceId": "My.FirstClassLibrary",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/My.FirstClassLibrary",
+      "RelativePath": "My.FirstClassLibrary#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "33cvackptp",
+      "Integrity": "ETcn5MZ5JVqJMBPI0j6u5AH040PJT5Xxc712OwsLmPM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\My.FirstClassLibrary.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\wwwroot\\background.png",
+      "SourceId": "My.FirstClassLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\wwwroot\\",
+      "BasePath": "_content/My.FirstClassLibrary",
+      "RelativePath": "background#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x2rx4ajns0",
+      "Integrity": "WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "My.FirstClassLibrary",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\wwwroot\\",
+      "BasePath": "_content/My.FirstClassLibrary",
+      "RelativePath": "exampleJsInterop#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6pqz8bsss0",
+      "Integrity": "FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "background.png",
+      "AssetFile": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\wwwroot\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:30:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY="
+        }
+      ]
+    },
+    {
+      "Route": "background.x2rx4ajns0.png",
+      "AssetFile": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\wwwroot\\background.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "378"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:30:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x2rx4ajns0"
+        },
+        {
+          "Name": "label",
+          "Value": "background.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WeOKCkI7IdJHs2kCqsKgLfiWX4/sNPbaRUspOLefkCY="
+        }
+      ]
+    },
+    {
+      "Route": "exampleJsInterop.6pqz8bsss0.js",
+      "AssetFile": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\wwwroot\\exampleJsInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:30:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6pqz8bsss0"
+        },
+        {
+          "Name": "label",
+          "Value": "exampleJsInterop.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4="
+        }
+      ]
+    },
+    {
+      "Route": "exampleJsInterop.js",
+      "AssetFile": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\wwwroot\\exampleJsInterop.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "247"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:30:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FrrTtczTUEHjkhc/zWRPC7CmxeXI0JCZGc1+76qQ8B4="
+        }
+      ]
+    },
+    {
+      "Route": "My.FirstClassLibrary.33cvackptp.bundle.scp.css",
+      "AssetFile": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\My.FirstClassLibrary.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ETcn5MZ5JVqJMBPI0j6u5AH040PJT5Xxc712OwsLmPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:39:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "33cvackptp"
+        },
+        {
+          "Name": "label",
+          "Value": "My.FirstClassLibrary.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ETcn5MZ5JVqJMBPI0j6u5AH040PJT5Xxc712OwsLmPM="
+        }
+      ]
+    },
+    {
+      "Route": "My.FirstClassLibrary.33cvackptp.styles.css",
+      "AssetFile": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\obj\\Release\\net8.0\\scopedcss\\bundle\\My.FirstClassLibrary.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ETcn5MZ5JVqJMBPI0j6u5AH040PJT5Xxc712OwsLmPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:39:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "33cvackptp"
+        },
+        {
+          "Name": "label",
+          "Value": "My.FirstClassLibrary.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ETcn5MZ5JVqJMBPI0j6u5AH040PJT5Xxc712OwsLmPM="
+        }
+      ]
+    },
+    {
+      "Route": "My.FirstClassLibrary.bundle.scp.css",
+      "AssetFile": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\My.FirstClassLibrary.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ETcn5MZ5JVqJMBPI0j6u5AH040PJT5Xxc712OwsLmPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:39:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ETcn5MZ5JVqJMBPI0j6u5AH040PJT5Xxc712OwsLmPM="
+        }
+      ]
+    },
+    {
+      "Route": "My.FirstClassLibrary.styles.css",
+      "AssetFile": "C:\\Users\\beef1218\\Projects\\FirstClassLibrary\\obj\\Release\\net8.0\\scopedcss\\bundle\\My.FirstClassLibrary.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ETcn5MZ5JVqJMBPI0j6u5AH040PJT5Xxc712OwsLmPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 11:39:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ETcn5MZ5JVqJMBPI0j6u5AH040PJT5Xxc712OwsLmPM="
+        }
+      ]
+    }
+  ]
+}
